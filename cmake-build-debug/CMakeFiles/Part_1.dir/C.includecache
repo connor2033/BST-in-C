@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Connor/Documents/School/Second Year/CS 2211/Assignments/Assignment 4/Part 1/bst.h
+data.h
+C:/Users/Connor/Documents/School/Second Year/CS 2211/Assignments/Assignment 4/Part 1/data.h
+
+C:/Users/Connor/Documents/School/Second Year/CS 2211/Assignments/Assignment 4/Part 1/bstree_stdin.c
+stdio.h
+-
+bst.h
+C:/Users/Connor/Documents/School/Second Year/CS 2211/Assignments/Assignment 4/Part 1/bst.h
+
+C:/Users/Connor/Documents/School/Second Year/CS 2211/Assignments/Assignment 4/Part 1/data.h
+
